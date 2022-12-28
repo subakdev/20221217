@@ -20,6 +20,8 @@
 * [node를 launch 하기](./LaunchingNodes.md) 
 * [back data 기록 및 재생](./RecordingAndPlayingBackData.md) 
 ----
+## Day 2
+----
 * [colcon 사용해서 packages 빌드하기](./UsingColconToBuildPackages.md) 
 * [workspace 생성하기](./CreatingWorkspace.md) 
 * [package 생성하기](./CreatingPackage.md) 
@@ -30,19 +32,6 @@
 * [parameters 사용하기 (C++)](./UsingParametersInClassCpp.md) 
 * [rosdoctor 사용해서 issues 확인하기](./UsingRos2doctorToIdentifyIssues.md) 
 * [plugins 생성하고 사용하기 (C++)](./CreatingAndUsingPluginsCpp.md) 
-----
-## Day 2
-* [rosdep로 의존성 관리하기](./ManagingDependencieswithrosdep.md) 
-* [action 생성하기](./CreatingAnAction.md) 
-* [action server와 client 작성하기 (C++)](./WritingAnActionServerAndClientCpp.md)
-* action server와 client 작성하기 (Python) 
-* [여러 nodes를 하나의 단일 process로 구성하기](./ComposingMultipleNodesInSingleProcess.md) 
-* [parameters 변경 모니터링](./MonitoringForParameterChangesCpp.md) (c++) 
-* [Launch - launch 파일 생성](./Launch/CreatingLaunchFile.md) 
-* [Launch - launch 파일을 ROS2 packages에 통합시키기](./Launch/IntegratingLaunchFilesIntoROS2Packages.md) 
-* [Launch - substitutions 사용하기](./Launch/UsingSubstitutions.md) 
-* [Launch - event handlers 사용하기](./Launch/UsingEventHnadlers.md) 
-* [Launch - 규모있는 프로젝트 관리하기](./Launch/ManagingLargeProjects.md) 
 * [tf2 - transformation](./tf2_transformation.md) 
 * [tf2 - tf2 소개](./tf2_IntroducingTF2.md) 
 * [tf2 - static broadcaster 작성하기 (C++)](./tf2_WritingAStaticBroadcaster_C++.md) 
